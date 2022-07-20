@@ -34,7 +34,10 @@ const App = () => {
   }, [])
   if (isLoading) {
     return (
+      <>
+      <h2 className='title-heading'>Available Tours Here:</h2>
       <Loading></Loading>
+      </>
     )
   }
   return (
