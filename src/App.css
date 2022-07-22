@@ -69,7 +69,7 @@ p{
 box-shadow: 2px 3px 25px 4px rgba(0,0,0,0.75);
 }
 .tour-image{
-  width: 90%;
+  width: 80%;
 }
 .tour-image img{
   width: 100%;
@@ -78,7 +78,7 @@ box-shadow: 2px 3px 25px 4px rgba(0,0,0,0.75);
   -moz-border-radius: 0.5rem;
   -ms-border-radius: 0.5rem;
   -o-border-radius: 0.5rem;
-  height: 30rem;
+  height: 25rem;
 }
 
 .price{
